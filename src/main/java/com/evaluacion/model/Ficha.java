@@ -1,0 +1,1 @@
+// Ficha.java placeholder

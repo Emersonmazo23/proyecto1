@@ -1,0 +1,1 @@
+// Competencia.java placeholder

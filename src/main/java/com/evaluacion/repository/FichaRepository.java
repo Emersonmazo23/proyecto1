@@ -1,0 +1,1 @@
+// FichaRepository.java placeholder

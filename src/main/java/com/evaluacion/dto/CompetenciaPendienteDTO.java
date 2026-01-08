@@ -1,0 +1,1 @@
+// CompetenciaPendienteDTO.java placeholder
